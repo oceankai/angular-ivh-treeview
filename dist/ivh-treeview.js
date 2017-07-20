@@ -1336,7 +1336,7 @@ angular.module('ivh.treeview').provider('ivhTreeviewOptions', [
     /**
      * Collection item attribute to use for child nodes
      */
-    childrenAttribute: 'children',
+    childrenAttribute: 'childDepartmentReceiverList',
 
     /**
      * Collection item attribute to use for selected state
