@@ -51,9 +51,9 @@
 IVH Treeview can be installed with bower and npm:
 
 ```
-bower install angular-ivh-treeview
+bower install angular-ivh-treeview-ks
 # or
-npm install angular-ivh-treeview
+npm install angular-ivh-treeview-ks
 ```
 
 Once installed, include the following files in your app:
